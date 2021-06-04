@@ -1,3 +1,3 @@
 The Odin Project Assignment #2 : Rock, Paper, Scissors 
 
-Live version [here](http://bvwtgt.xyz/rockpaperscissor/)
+Live version [here](https://timothy-taylor.github.io/rockpaperscissor/)
